@@ -1,23 +1,15 @@
-# (Application Name)
+# Coin Counter
 
-#### (Brief Description of Application)
+#### An application that uses javascript recursive functions to caculate change for money recieved. 
 
-#### By Seung Lee
+#### By Seung Lee, Liam Campbell
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _Bootstrap_
-* _jQuery_
 * _npm_
 * _webpack_
 * _eslint_
 * _babel_
-* _html-loader_
-* _style-loader_
-* _css-loader_
-* _file-loader_
 * _jest_
 
 ## [GitHub Pages Link](https://leark.github.io/template-repo)
@@ -28,11 +20,11 @@
 1. Open Git Bash if on Windows and terminal if on Mac
 2. Run the command
 
-    ``git clone https://github.com/leark/template-repo.git``
+    ``git clone https://github.com/leark/CoinCounter.git``
 
 3. Run the command
 
-    ``cd template-repo``
+    ``cd CoinCounter``
 
 4. Run the command
 
@@ -55,9 +47,12 @@
 
 [GNU](/LICENSE-GNU)
 
-Copyright (c) 2022 Seung Lee
+Copyright (c) 2022 Seung Lee, Liam Campbell
 
 ## Contact Information
 
 Seung Lee
 shl7@uw.edu
+<br>
+Liam Campbell
+liam22campbell@gmail.com
