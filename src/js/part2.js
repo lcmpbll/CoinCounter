@@ -106,7 +106,7 @@ const cc = function (money) {
   };
 };
 
-console.log(cc(0.44).subtractPennies());
+console.log(`${cc(0.44).subtractPennies()} pennies fit`);
 console.log(cc(0.44).subtractNickles());
 console.log(cc(0.44).subtractDimes());
 console.log(cc(0.44).subtractQuarters());
